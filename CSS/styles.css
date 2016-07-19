@@ -102,3 +102,10 @@ text-align: center;
 .space {
 height:1400px;
 }
+
+@media (max-width:768px) {
+.box1, .box2, .box3, .box4 {
+margin:0 5%;
+width: 90%;
+}
+}
